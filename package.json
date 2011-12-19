@@ -1,0 +1,17 @@
+{
+  "author": "daniel montgomery",
+  "name": "dmonty_mm",
+  "description": "testing node module creation",
+  "version": "0.1.0",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/dmonty/dmonty_mm.git"
+  },
+  "engines": {
+    "node": "0.6.6"
+  },
+  "directories": {
+	"doc": "./doc",
+	"lib": "./lib"
+  }
+}
